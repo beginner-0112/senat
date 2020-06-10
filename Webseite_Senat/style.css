@@ -1,7 +1,33 @@
 .page {
-    background-color: #035A80;
+    background-color: darkgrey;
 }
 
+.container-fluid {
+    background-color: #035A80;
+    width: 60%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.headerImage {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+.portrait-box {
+    height: 600px;
+    width: 300px;
+}
+
+.portrait {
+    width: 100%;
+}
 .row {
     padding: 50px 10em 50px 10em;
 }
@@ -11,19 +37,14 @@
     background: url('images/cloud1.jpg') no-repeat center center/ cover;
     font-size: 28px;
     font-weight: 600;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    width: 80%;
 }
 
 .row2 {
     height: 250px;
     background: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    width: 90%;    
+    padding: 20px 80px;
 }
 
 .row3 {
