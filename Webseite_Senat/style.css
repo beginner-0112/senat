@@ -1,0 +1,104 @@
+.page {
+    background-color: #035A80;
+}
+
+.row {
+    padding: 50px 10em 50px 10em;
+}
+
+.row1 {
+    height: 250px;
+    background: url('images/cloud1.jpg') no-repeat center center/ cover;
+    font-size: 28px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.row2 {
+    height: 250px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.row3 {
+    background: #035A80;
+    color: white;
+    text-align: center;
+}
+
+.row4 {
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.row5 {
+    background: lightsteelblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;
+}
+
+.row6 {
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;
+}
+
+.row7 {
+    background: lightsteelblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+i {
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+
+.footer {
+    background: #f8f8f8;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+  }
+
+input {
+    margin: 10px;
+}
+
+label {
+    font-size: 18px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center; 
+}
+.center li {
+    padding: 10px;
+}
+
+.nav-item {
+    padding: 8px 20px;
+}
